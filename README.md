@@ -12,5 +12,5 @@ Make sure you have **Python 3.8+** installed.
 Necessary libraries to install: fastapi, uvicorn and requests.
 
 ### To Run this project:
-To Start API: uvicorn server:app
+To Start API: uvicorn server:app  
 To RUN Client: python client.py
